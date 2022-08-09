@@ -8,7 +8,7 @@ Lots of thing to come here 🌍
 
 ### 👓 Appendix
 
-You can visit my website there [Raphaël Bajon](https://raphaelbajon.github.io) 🙌.
+You can visit my website there (also in progress) [Raphaël Bajon](https://raphaelbajon.github.io) 🙌.
 
 
 ---
