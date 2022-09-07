@@ -8,6 +8,7 @@ Lots of thing to come here 🌍
 
 ### 👓 Appendix
 
+From my current work as a PhD : **plastic** and **carbon** folder :+1:. 
 You can visit my website there (also in progress) [Raphaël Bajon](https://raphaelbajon.github.io) 🙌.
 
 
