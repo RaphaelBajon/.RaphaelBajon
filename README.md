@@ -2,7 +2,7 @@
 
 My profile on Github is under construction 🦦, being particularly new to the github community 🙇‍. Feel free to follow me to collaborate on various works, such as artificial intelligence, neural networks and climate change. 
 
-<--I really want to collaborate to open source and as Github says, I hope I will rock 🎸 ! [About the open source](https://opensource.guide/)-->
+<!--I really want to collaborate to open source and as Github says, I hope I will rock 🎸 ! [About the open source](https://opensource.guide/)-->
 
 Lots of thing to come here 🌍 
 
