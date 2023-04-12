@@ -8,7 +8,7 @@ Lots of thing to come here 🌍
 
 ### 👓 Appendix
 
-From my current work as a data scientist intern or a PhD candidate : **[plastic](https://github.com/raphaelbajon/plastic-progress)** and **[carbon](https://github.com/raphaelbajon/carbon-progress)** folders :+1:. 
+From my previous and current work as a data scientist intern or a PhD candidate : **[plastic](https://github.com/raphaelbajon/plastic-progress)** and **[carbon](https://github.com/raphaelbajon/carbon-progress)** folders :+1:. 
 
 You can visit my website there (also in progress) [Raphaël Bajon](https://raphaelbajon.github.io) 🙌.
 
